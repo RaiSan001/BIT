@@ -1,7 +1,6 @@
 //is it palindrome
 
 #include <stdio.h>
-#include <string.h>
 
 
 int main()
