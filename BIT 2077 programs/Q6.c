@@ -1,3 +1,5 @@
+//Write program logic to add and display the sum of two m x n matrices.
+
 #include <stdio.h>
 #include <stdlib.h>
 
